@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(144 144 142);
+    font-family: 'Nunito', sans-serif;
+}
+section{
+    top: 80px;
+    left: 185px;
+    display: flex;
+    position: relative;
+    width: 790px;
+    height: 470px;
+    background-color: #fff;
+}
+.contat{
+    width: 400px;
+    padding: 40px;
+    background-color: #cecdcd;
+}
+.contat img{
+    width: 62px;
+    margin: 3px 70px;
+}
+.contat .p1{
+    margin: 40px 0;
+    margin-bottom: 50px;
+}
+.contat h3{
+    color: #e43423;
+    font-size: 21px;
+    font-weight: bold;
+    margin-bottom: 45px;
+}
+.contat .p2{
+    font-size: 13px;
+    padding-top: 10px;
+}
+.contat .p2 span{
+    padding-right: 15px;
+    color: #e43423;
+}
+.formbox{
+    padding: 73px 0 0 0;
+}
+.from-row{
+    margin-left: 30px;
+}
+.formbox .from-row{
+    display: flex;
+    margin: 36px 59px;
+}
+.formbox .inputbx input{
+    outline: none;
+    border: none;
+    border-bottom:1px solid slategrey;
+}
+.inputbx label{
+    font-size: 13px;
+    font-weight: bold;
+}
+.formbox .textare textarea{ 
+    margin: 0 51px;
+    width: 400px;
+    position: relative;
+    outline: none;
+    border: 0;
+    border-bottom:1px solid slategrey;
+}
+.textare label{
+    font-size: 13px;
+    position: absolute;
+    top:302px;
+    font-weight: bold;
+    z-index: 1;
+    margin-left: -451px;
+}
+.formbox .butn {
+    text-align: center;
+    margin: 50px 243px 0 0px;
+}
+.formbox .butn button{
+    width: 162px;
+    padding: 6px;
+    color: #e67717;
+    border: 1px solid #e67717;
+    border-radius: 8px;
+    background-color: #fff;
+}

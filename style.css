@@ -1,0 +1,2242 @@
+.navbarmarjn{
+  margin-top: 70px;
+}
+.navbarmarjn .navbartext .brandname{ 
+  font-weight: bold;
+  font-size: 25px;
+  letter-spacing: 2px;
+}
+.navbaritem ul li{
+  padding-left: 45px;
+  font-size: 18px;
+}
+.contant{
+  padding-top: 100px;
+}
+.contant h1{
+  font-size: 47px;
+  font-weight: 800;
+  padding: 0px 226px;
+}
+.contant p{ 
+  padding: 38px 243px;
+  font-size: 24px;
+}
+.contant button{
+  width: 198px;
+  padding: 4px;
+  margin: 2px;
+}
+.imgt img{
+  position: relative;
+  margin: 200px 53px 0;
+  border-radius: 18px;
+  box-shadow: 4px 4px 20px rgba(0,0,0,0.1);
+  z-index: 1;
+}
+.services{
+  position: absolute;
+  height: 173vh;
+  top: 1176px;
+  background-color: rgb(240, 240, 240);
+}
+.services h3{
+    padding-top: 317px;
+    font-size: 21px;
+}
+.services h1{
+  margin: 42px 0 85px ;
+  font-weight: bold;
+}
+.services .service_cards{
+  margin: 0 164px;
+}
+.service_cards .card_1{
+  right: 13px;
+  height: 470px;
+  border-radius: 17px;
+  background-color: white;
+  box-shadow: 4px 4px 20px rgba(0,0,0,0.3); 
+}
+.card_1 .imgsating{
+  padding: 49px 0;
+}
+.card_1 h2{
+  font-weight: bold;
+  font-size: 27px;
+}
+.card_1 p{
+  padding-top: 25px;
+  font-size: 20px;
+}
+.service_cards .card_2{
+  left: 15px;
+  height: 470px;
+  border-radius: 17px;
+  background-color: white;
+  box-shadow: 4px 4px 20px rgba(0,0,0,0.3); 
+}
+.card_2 .imgsating{
+  padding: 49px 0;
+}
+.card_2 h2{
+  font-weight: bold;
+  font-size: 27px;
+}
+.card_2 p{
+  padding-top: 25px;
+  font-size: 20px;
+}
+.service_cards .card_3{
+  left: 43px;
+  height: 470px;
+  border-radius: 17px;
+  background-color: white;
+  box-shadow: 4px 4px 20px rgba(0,0,0,0.3); 
+}
+.card_3 .imgsating{
+  padding: 49px 0;
+}
+.card_3 h2{
+  font-weight: bold;
+  font-size: 27px;
+}
+.card_3 p{
+  padding-top: 25px;
+  font-size: 20px;
+}
+.imgdetal{
+  margin-top: 1000px;
+}
+.imgdetal h3{
+  font-size: 21px;
+  padding-top: 90px;
+}
+.imgdetal h1{
+  padding-top: 38px;
+  font-weight: bold;
+}
+.imgdetal .mobil_1{
+  margin-top: 140px;
+}
+.mobil_1 .imgset{
+  right: 10px;
+}
+.imgset img{
+  border-radius: 46px;
+  box-shadow: 4px 4px 20px rgba(0,0,0,0.1);
+}
+.mobil_1 .textset h4{
+  margin: 0 -141px;
+  font-size: 33px;
+}
+.mobil_1 .textset p{
+  margin: 35px -101px 0;
+  font-size: 24px;
+}
+.lineone{
+  position: relative; 
+  width: 650px;
+  height: 100px;
+  margin: 37px 368px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 2px dashed red;
+  border-left: 2px dashed red;
+}
+.lineone:before {
+  content: " ";
+  position: absolute;
+  width: 650px;
+  height: 100px;
+  margin-top: 198px;
+  border-right: 2px dashed red;
+}
+.imgdetal .mobil_2{
+  padding: 130px 0;
+}
+.mobil_2 .textset h4{
+  margin: 0 -100px;
+  font-size: 30px;
+}
+.mobil_2 .textset h4 b{
+  padding-right: 7px;
+    margin-left: -31px;
+}
+.mobil_2 .textset p{
+  margin: 35px -101px 0;
+  font-size: 24px;
+}
+.mobil_2 .imgset2{
+  right: 218px;
+}
+.lineone_2{
+  position: relative; 
+  width: 650px;
+  height: 100px;
+  margin: 37px 368px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-top: 2px dashed red;
+  border-left: 2px dashed red;
+}
+.lineone_2:before {
+  content: " ";
+  position: absolute;
+  width: 650px;
+  height: 100px;
+  margin-top: -199px;
+  border-right: 2px dashed red;
+}
+.imgdetal .mobil_3{
+  padding: 50px 0;
+}
+.mobil_3 .imgset3{
+  left: -97px;
+}
+.imgset3 img{
+  box-shadow: 4px 4px 20px rgba(0,0,0,0.1);
+}
+.mobil_3 .textset h4{
+  margin: 0 -105px;
+  font-size: 36px;
+}
+.mobil_3 .textset h4 b{
+  padding-right: 7px;
+    margin-left: -31px;
+}
+.mobil_3 .textset p{
+  margin: 35px -101px 0;
+  font-size: 24px;
+}
+.infor{
+  margin: 145px 0;
+  background-color:  rgb(240, 240, 240);
+}
+.infor h1{
+  padding: 120px 352px 55px;
+}
+.infor button{
+  padding: 4px;
+  width: 275px;
+  margin-bottom: 120px;
+}
+.price h3{
+  font-size: 22px;
+}
+.price h2{
+  padding: 55px 89px 104px;
+}
+.price .price1{
+  left: 55px;
+ }
+.price .price1 h1{
+  margin: 0 -120px;
+}
+.price .price1 h1 b{
+  padding-left: 53px;
+}
+.price .price1 p{
+  border-bottom: 1px solid rgb(201, 199, 199);
+    border-top: 1px solid rgb(201, 199, 199);
+    padding: 45px 96px;
+    font-size: 22px;
+    width: 392px;
+    height: 190px;
+    margin-left: -117px;
+}
+.price .price2{
+  right: 45px;
+}
+.price .price2 h1{
+  margin: 0 -120px;
+}
+.price .price2 h1 b{
+  padding-left: 100px;
+}
+.price .price2 p{
+  border-bottom: 1px solid rgb(201, 199, 199);
+  border-top: 1px solid rgb(201, 199, 199);
+  padding: 45px 96px;
+  font-size: 22px;
+  width: 392px;
+  height: 190px;
+  margin-left: -117px;
+}
+.links{
+margin-top: 100px;
+background-color:  rgb(240, 240, 240);
+}
+.links h6{
+  padding: 115px 0 7px;
+}
+.link{
+  padding-bottom: 115px;
+}
+.links .link .link_logo{ 
+  left: 250px;
+  padding-bottom: 8px;
+}
+.links .link .link_cantant{
+  right: 220px;
+}
+.link_cantant .p1{
+  margin-bottom: 0;
+}
+footer{
+  margin: 0 531px;
+}
+footer .c2{
+  padding-left: 196px;
+}
+
+/*********************************************************************************/
+
+@media screen and (max-width:1112px){
+  .navbaritem ul li {
+    padding-left: 28px;
+    font-size: 18px;
+  }
+  .navbarmarjn{
+    margin: 15px;
+  }
+  .contant h1 {
+    font-size: 42px;
+    padding: 0 165px;
+  }
+  .contant p {
+    padding: 16px 159px;
+    font-size: 19px;
+  }
+  .contant button {
+    width: 173px;
+    padding: 2px;
+  }
+  .imgt img {
+    width: 931px;
+    margin: 188px 0 0;
+  }
+  .services {
+    top: 1023px;
+    height: 142vh;
+  }
+  .services h3 {
+    padding-top: 200px;
+  } 
+  .services h1 {
+    font-size: 36px
+  }
+  .services .service_cards {
+    margin: 0 50px 0 26px;
+  }
+  .service_cards .card_1 {
+    height: 400px;
+  }
+  .card_1 .imgsating {
+    padding: 25px 0 9px;
+  }
+  .card_1 h2 {
+    padding-top: 20px;
+    font-size: 25px;
+  }
+  .card_1 p {
+    padding-top: 43px;
+    font-size: 19px;
+  }
+  .service_cards .card_2 {
+    height: 400px;
+  }
+  .card_2 .imgsating {
+    padding: 25px 0 9px;
+  }
+  .card_2 h2 {
+    padding-top: 20px;
+    font-size: 25px;
+  }
+  .card_2 p {
+    padding-top: 52px;
+    font-size: 19px;
+  }
+  .service_cards .card_3 {
+    height: 400px;
+  }
+  .card_3 .imgsating {
+    padding: 25px 0 9px;
+  }
+  .card_3 h2 {
+    padding-top: 20px;
+    font-size: 25px;
+  }
+  .card_3 p {
+    padding-top: 52px;
+    font-size: 19px;
+  }
+  .lineone {
+    width: 482px;
+    height: 54px;
+    margin: 37px 153px;
+  }
+  .lineone:before {
+    width: 484px;
+    height: 62px;
+    margin-top: 115px;
+  }
+  .lineone_2 {
+    width: 482px;
+    height: 54px;
+    margin: 37px 153px;
+  }
+  .lineone_2:before {
+    width: 487px;
+    height: 54px;
+    margin-top: -107px;
+  }
+  .imgdetal {
+    margin-top: 780px;
+  }
+  .mobil_1 .imgset {
+    right: 75px;
+  }
+  .imgset img {
+    width: 208px;
+    border-radius: 28px;
+  }
+  .mobil_1 .textset h4 {
+    width: 239px;
+    margin:-113px -188px 0;
+    font-size: 26px;
+  }
+  .mobil_1 .textset p {
+    margin: 19px 0px 0 -165px;
+    font-size: 19px;
+  }
+  .mobil_2 .imgset2 {
+    right: 171px;
+  }
+  .mobil_2 .imgset2 img{
+    width: 491px
+  }
+  .mobil_2 .textset h4 {
+    margin: 0 -86px;
+    font-size: 27px;
+  }
+  .mobil_2 .textset p {
+    margin: 24px -83px 0;
+    font-size: 20px;
+  }
+  .imgset3 img {
+    width: 290px;
+  }
+  .mobil_3 .textset h4 {
+    font-size: 25px;
+  }
+  .mobil_3 .textset p {
+    font-size: 19px;
+  }
+  .infor {
+    margin: 70px 0;
+  }
+  .infor h1 {
+    padding: 120px 87px 55px;
+  }
+  .price .price1 {
+    left: -14px;
+  }
+  .price .price1 h1 {
+    margin: 0 -107px;
+    font-size: 29px;
+  }
+  .price .price1 p {
+    padding: 45px 61px;
+    width: 319px;
+  }
+  .price .price2 h1 {
+    margin: 0 -83px;
+    font-size: 29px;
+  }
+  .price .price2 p {
+    padding: 45px 61px;
+    width: 319px;
+    margin-left: -84px;
+  }
+  .links h6 {
+    padding: 75px 0 34px;
+  }
+  .link {
+    padding-bottom: 30px;
+  }
+  .links .link .link_logo {
+    left: 429px;
+  }
+  .links .link .link_cantant {
+    right: 457px;
+  }
+  .links .link .link_cantant p {
+    width: 163px;
+  }
+  footer {
+    margin: 0 352px;
+  }
+
+/*********************************************************************************/
+
+@media screen and (max-width:1024px){
+  .navbaritem ul li {
+    padding-left: 28px;
+    font-size: 18px;
+  }
+  .navbarmarjn{
+    margin: 15px;
+  }
+  .contant h1 {
+    font-size: 42px;
+    padding: 0 165px;
+  }
+  .contant p {
+    padding: 16px 159px;
+    font-size: 19px;
+  }
+  .contant button {
+    width: 173px;
+    padding: 2px;
+  }
+  .imgt img {
+    width: 931px;
+    margin: 188px 0 0;
+  }
+  .services {
+    top: 1023px;
+    height: 55rem;
+  }
+  .services h3 {
+    padding-top: 200px;
+  } 
+  .services h1 {
+    font-size: 36px
+  }
+  .services .service_cards {
+    margin: 0 50px 0 26px;
+  }
+  .service_cards .card_1 {
+    height: 400px;
+  }
+  .card_1 .imgsating {
+    padding: 25px 0 9px;
+  }
+  .card_1 h2 {
+    padding-top: 20px;
+    font-size: 25px;
+  }
+  .card_1 p {
+    padding-top: 43px;
+    font-size: 19px;
+  }
+  .service_cards .card_2 {
+    height: 400px;
+  }
+  .card_2 .imgsating {
+    padding: 25px 0 9px;
+  }
+  .card_2 h2 {
+    padding-top: 20px;
+    font-size: 25px;
+  }
+  .card_2 p {
+    padding-top: 52px;
+    font-size: 19px;
+  }
+  .service_cards .card_3 {
+    height: 400px;
+  }
+  .card_3 .imgsating {
+    padding: 25px 0 9px;
+  }
+  .card_3 h2 {
+    padding-top: 20px;
+    font-size: 25px;
+  }
+  .card_3 p {
+    padding-top: 52px;
+    font-size: 19px;
+  }
+  .lineone {
+    width: 482px;
+    height: 54px;
+    margin: 37px 153px;
+  }
+  .lineone:before {
+    width: 484px;
+    height: 62px;
+    margin-top: 115px;
+  }
+  .lineone_2 {
+    width: 482px;
+    height: 54px;
+    margin: 37px 153px;
+  }
+  .lineone_2:before {
+    width: 487px;
+    height: 54px;
+    margin-top: -107px;
+  }
+  .imgdetal {
+    margin-top: 780px;
+  }
+  .mobil_1 .imgset {
+    right: 75px;
+  }
+  .imgset img {
+    width: 208px;
+    border-radius: 28px;
+  }
+  .mobil_1 .textset h4 {
+    width: 239px;
+    margin:-113px -188px 0;
+    font-size: 26px;
+  }
+  .mobil_1 .textset p {
+    margin: 19px 0px 0 -165px;
+    font-size: 19px;
+  }
+  .mobil_2 .imgset2 {
+    right: 171px;
+  }
+  .mobil_2 .imgset2 img{
+    width: 491px
+  }
+  .mobil_2 .textset h4 {
+    margin: 0 -86px;
+    font-size: 27px;
+  }
+  .mobil_2 .textset p {
+    margin: 24px -83px 0;
+    font-size: 20px;
+  }
+  .imgset3 img {
+    width: 290px;
+  }
+  .mobil_3 .textset h4 {
+    font-size: 25px;
+  }
+  .mobil_3 .textset p {
+    font-size: 19px;
+  }
+  .infor {
+    margin: 70px 0;
+  }
+  .infor h1 {
+    padding: 120px 87px 55px;
+  }
+  .price .price1 {
+    left: -14px;
+  }
+  .price .price1 h1 {
+    margin: 0 -107px;
+    font-size: 29px;
+  }
+  .price .price1 p {
+    padding: 45px 61px;
+    width: 319px;
+  }
+  .price .price2 h1 {
+    margin: 0 -83px;
+    font-size: 29px;
+  }
+  .price .price2 p {
+    padding: 45px 61px;
+    width: 319px;
+    margin-left: -84px;
+  }
+  .links h6 {
+    padding: 75px 0 34px;
+  }
+  .link {
+    padding-bottom: 30px;
+  }
+  .links .link .link_logo {
+    left: 429px;
+  }
+  .links .link .link_cantant {
+    right: 457px;
+  }
+  .links .link .link_cantant p {
+    width: 163px;
+  }
+  footer {
+    margin: 0 250px;
+  }
+
+/*******************************************************************************/
+
+@media screen and (max-width:900px){
+  .navbaritem ul li {
+    padding-left: 14px;
+    font-size: 15px;
+  }
+  .navbarmarjn{
+    margin: 0;
+  }
+  .contant h1 {
+    font-size: 40px;
+    padding: 0 62px;
+    margin-top: -60px;
+  }
+  .contant p {
+    padding: 16px 73px;
+    font-size: 19px;
+  }
+  .contant button {
+    width: 173px;
+    padding: 2px;
+  }
+  .imgt img {
+    width: 692px;
+    margin: 93px 0 0;
+  }
+  .services {
+    top: 715px;
+    height: 142vh;
+  }
+  .services h3 {
+    padding-top: 200px;
+  } 
+  .services h1 {
+    font-size: 36px
+  }
+  .services .service_cards {
+    margin: 0 50px 0 26px;
+  }
+  .service_cards .card_1 {
+    height: 400px;
+  }
+  .card_1 .imgsating {
+    padding: 25px 0 9px;
+  }
+  .card_1 h2 {
+    padding-top: 20px;
+    font-size: 25px;
+  }
+  .card_1 p {
+    padding-top: 33px;
+    font-size: 18px;
+  }
+  .service_cards .card_2 {
+    height: 400px;
+  }
+  .card_2 .imgsating {
+    padding: 25px 0 9px;
+  }
+  .card_2 h2 {
+    padding-top: 20px;
+    font-size: 25px;
+  }
+  .card_2 p {
+    padding-top: 19px;
+    font-size: 17px;
+  }
+  .service_cards .card_3 {
+    height: 400px;
+  }
+  .card_3 .imgsating {
+    padding: 25px 0 9px;
+  }
+  .card_3 h2 {
+    padding-top: 20px;
+    font-size: 25px;
+  }
+  .card_3 p {
+    padding-top: 19px;
+    font-size: 17px;
+  }
+  .lineone {
+    width: 482px;
+    height: 54px;
+    margin: 37px 153px;
+  }
+  .lineone:before {
+    width: 484px;
+    height: 62px;
+    margin-top: 115px;
+  }
+  .lineone_2 {
+    width: 482px;
+    height: 54px;
+    margin: 37px 153px;
+  }
+  .lineone_2:before {
+    width: 487px;
+    height: 54px;
+    margin-top: -107px;
+  }
+  .imgdetal {
+    margin-top: 780px;
+  }
+  .mobil_1 .imgset {
+    right: 75px;
+  }
+  .imgset img {
+    width: 208px;
+    border-radius: 28px;
+  }
+  .mobil_1 .textset h4 {
+    width: 239px;
+    margin:-113px -188px 0;
+    font-size: 26px;
+  }
+  .mobil_1 .textset p {
+    margin: 19px 0px 0 -165px;
+    font-size: 19px;
+  }
+  .mobil_2 .imgset2 {
+    right: 171px;
+  }
+  .mobil_2 .imgset2 img{
+    width: 450px
+  }
+  .mobil_2 .textset h4 {
+    margin: 0 -86px;
+    font-size: 27px;
+  }
+  .mobil_2 .textset p {
+    margin: 24px -83px 0;
+    font-size: 20px;
+  }
+  .imgset3 img {
+    width: 290px;
+  }
+  .mobil_3 .textset h4 {
+    font-size: 25px;
+  }
+  .mobil_3 .textset p {
+    font-size: 19px;
+  }
+  .infor {
+    margin: 70px 0;
+  }
+  .infor h1 {
+    padding: 120px 87px 55px;
+  }
+  .price .price1 {
+    left: -14px;
+  }
+  .price .price1 h1 {
+    margin: 0 -107px;
+    font-size: 29px;
+  }
+  .price .price1 p {
+    padding: 45px 61px;
+    width: 319px;
+  }
+  .price .price2 h1 {
+    margin: 0 -83px;
+    font-size: 29px;
+  }
+  .price .price2 p {
+    padding: 45px 61px;
+    width: 319px;
+    margin-left: -84px;
+  }
+  .links h6 {
+    padding: 75px 0 34px;
+  }
+  .link {
+    padding-bottom: 30px;
+  }
+  .links .link .link_logo {
+    left: 294px;
+  }
+  .links .link .link_cantant {
+    right: 400px;
+  }
+  .links .link .link_cantant p {
+    width: 163px;
+  }
+  footer {
+    margin: 0 250px;
+  }
+
+/***************************************************************************/
+
+@media screen and (max-width:800px){
+  .navbaritem ul li {
+    padding-left: 14px;
+    font-size: 15px;
+  }
+  .navbarmarjn{
+    margin: 0;
+  }
+  .contant h1 {
+    font-size: 40px;
+    padding: 0 62px;
+    margin-top: -60px;
+  }
+  .contant p {
+    padding: 16px 73px;
+    font-size: 19px;
+  }
+  .contant button {
+    width: 173px;
+    padding: 2px;
+  }
+  .imgt img {
+    width: 692px;
+    margin: 93px 0 0;
+  }
+  .services {
+    top: 715px;
+    height: 142vh;
+  }
+  .services h3 {
+    padding-top: 200px;
+  } 
+  .services h1 {
+    font-size: 36px
+  }
+  .services .service_cards {
+    margin: 0 50px 0 26px;
+  }
+  .service_cards .card_1 {
+    height: 400px;
+  }
+  .card_1 .imgsating {
+    padding: 25px 0 9px;
+  }
+  .card_1 h2 {
+    padding-top: 20px;
+    font-size: 25px;
+  }
+  .card_1 p {
+    padding-top: 33px;
+    font-size: 18px;
+  }
+  .service_cards .card_2 {
+    height: 400px;
+  }
+  .card_2 .imgsating {
+    padding: 25px 0 9px;
+  }
+  .card_2 h2 {
+    padding-top: 20px;
+    font-size: 25px;
+  }
+  .card_2 p {
+    padding-top: 19px;
+    font-size: 17px;
+  }
+  .service_cards .card_3 {
+    height: 400px;
+  }
+  .card_3 .imgsating {
+    padding: 25px 0 9px;
+  }
+  .card_3 h2 {
+    padding-top: 20px;
+    font-size: 25px;
+  }
+  .card_3 p {
+    padding-top: 19px;
+    font-size: 17px;
+  }
+  .lineone {
+    width: 482px;
+    height: 54px;
+    margin: 37px 153px;
+  }
+  .lineone:before {
+    width: 484px;
+    height: 62px;
+    margin-top: 115px;
+  }
+  .lineone_2 {
+    width: 482px;
+    height: 54px;
+    margin: 37px 153px;
+  }
+  .lineone_2:before {
+    width: 487px;
+    height: 54px;
+    margin-top: -107px;
+  }
+  .imgdetal {
+    margin-top: 780px;
+  }
+  .mobil_1 .imgset {
+    right: 75px;
+  }
+  .imgset img {
+    width: 208px;
+    border-radius: 28px;
+  }
+  .mobil_1 .textset h4 {
+    width: 239px;
+    margin:-113px -188px 0;
+    font-size: 26px;
+  }
+  .mobil_1 .textset p {
+    margin: 19px 0px 0 -165px;
+    font-size: 19px;
+  }
+  .mobil_2 .imgset2 {
+    right: 171px;
+  }
+  .mobil_2 .imgset2 img{
+    width: 417px
+  }
+  .mobil_2 .textset h4 {
+    margin: 0 -86px;
+    font-size: 27px;
+  }
+  .mobil_2 .textset p {
+    margin: 24px -83px 0;
+    font-size: 20px;
+  }
+  .imgset3 img {
+    width: 290px;
+  }
+  .mobil_3 .textset h4 {
+    font-size: 25px;
+  }
+  .mobil_3 .textset p {
+    font-size: 19px;
+  }
+  .infor {
+    margin: 70px 0;
+  }
+  .infor h1 {
+    padding: 120px 87px 55px;
+  }
+  .price .price1 {
+    left: -14px;
+  }
+  .price .price1 h1 {
+    margin: 0 -107px;
+    font-size: 29px;
+  }
+  .price .price1 p {
+    padding: 45px 61px;
+    width: 319px;
+  }
+  .price .price2 h1 {
+    margin: 0 -83px;
+    font-size: 29px;
+  }
+  .price .price2 p {
+    padding: 45px 61px;
+    width: 319px;
+    margin-left: -84px;
+  }
+  .links h6 {
+    padding: 75px 0 34px;
+  }
+  .link {
+    padding-bottom: 30px;
+  }
+  .links .link .link_logo {
+    left: 294px;
+  }
+  .links .link .link_cantant {
+    right: 400px;
+  }
+  .links .link .link_cantant p {
+    width: 163px;
+  }
+  footer {
+    margin: 0 192px;
+  }
+ 
+/*........................................................................*/
+
+@media screen and (max-width:768px){
+  .navbaritem ul li {
+    padding-left: 14px;
+    font-size: 15px;
+  }
+  .navbarmarjn{
+    margin: 0;
+  }
+  .contant h1 {
+    font-size: 40px;
+    padding: 0 62px;
+    margin-top: -60px;
+  }
+  .contant p {
+    padding: 16px 73px;
+    font-size: 19px;
+  }
+  .contant button {
+    width: 173px;
+    padding: 2px;
+  }
+  .imgt img {
+    width: 692px;
+    margin: 93px 0 0;
+  }
+  .services {
+    top: 715px;
+    height: 54rem;
+  }
+  .services h3 {
+    padding-top: 200px;
+  } 
+  .services h1 {
+    font-size: 36px
+  }
+  .services .service_cards {
+    margin: 0 50px 0 26px;
+  }
+  .service_cards .card_1 {
+    height: 400px;
+  }
+  .card_1 .imgsating {
+    padding: 25px 0 9px;
+  }
+  .card_1 h2 {
+    padding-top: 20px;
+    font-size: 25px;
+  }
+  .card_1 p {
+    padding-top: 33px;
+    font-size: 18px;
+  }
+  .service_cards .card_2 {
+    height: 400px;
+  }
+  .card_2 .imgsating {
+    padding: 25px 0 9px;
+  }
+  .card_2 h2 {
+    padding-top: 20px;
+    font-size: 25px;
+  }
+  .card_2 p {
+    padding-top: 19px;
+    font-size: 17px;
+  }
+  .service_cards .card_3 {
+    height: 400px;
+  }
+  .card_3 .imgsating {
+    padding: 25px 0 9px;
+  }
+  .card_3 h2 {
+    padding-top: 20px;
+    font-size: 25px;
+  }
+  .card_3 p {
+    padding-top: 19px;
+    font-size: 17px;
+  }
+  .lineone {
+    display: none !important;
+  }
+  .lineone_2 {
+    display: none !important;
+  }
+  .imgdetal {
+    margin-top: 780px;
+  }
+  .mobil_1 .imgset {
+    right: 75px;
+  }
+  .imgset img {
+    width: 208px;
+    border-radius: 28px;
+  }
+  .mobil_1 .textset h4 {
+    width: 239px;
+    margin:-113px -188px 0;
+    font-size: 26px;
+  }
+  .mobil_1 .textset p {
+    margin: 19px 0px 0 -165px;
+    font-size: 19px;
+  }
+  .mobil_2 .imgset2 {
+    right: 171px;
+  }
+  .mobil_2 .imgset2 img{
+    width: 406px
+  }
+  .mobil_2 .textset h4 {
+    margin: 0 -86px;
+    font-size: 27px;
+  }
+  .mobil_2 .textset p {
+    margin: 24px -83px 0;
+    font-size: 20px;
+  }
+  .imgset3 img {
+    width: 290px;
+  }
+  .mobil_3 .textset h4 {
+    font-size: 25px;
+  }
+  .mobil_3 .textset p {
+    font-size: 19px;
+  }
+  .infor {
+    margin: 70px 0;
+  }
+  .infor h1 {
+    padding: 120px 87px 55px;
+  }
+  .price .price1 {
+    left: -14px;
+  }
+  .price .price1 h1 {
+    margin: 0 -107px;
+    font-size: 29px;
+  }
+  .price .price1 p {
+    padding: 45px 61px;
+    width: 319px;
+  }
+  .price .price2 h1 {
+    margin: 0 -83px;
+    font-size: 29px;
+  }
+  .price .price2 p {
+    padding: 45px 61px;
+    width: 319px;
+    margin-left: -84px;
+  }
+  .links h6 {
+    padding: 75px 0 34px;
+  }
+  .link {
+    padding-bottom: 30px;
+  }
+  .links .link .link_logo {
+    left: 294px;
+  }
+  .links .link .link_cantant {
+    right: 400px;
+  }
+  .links .link .link_cantant p {
+    width: 163px;
+  }
+  footer {
+    margin: 0 192px;
+  }
+
+  /*************************************************************************/
+
+  @media screen and (max-width:600px){
+   
+    .contant button {
+      width: 173px;
+      padding: 2px;
+    }
+    .imgt img {
+      width: 524px;
+    }
+    .services {
+      top: 724px;
+      height: 128vh;
+    }
+    .services .service_cards {
+      margin: 0 37px 0 16px;
+    }
+    .service_cards .card_1 {
+      height: 338px;
+    }
+    .card_1 .imgsating {
+      padding: 25px 0 9px;
+    }
+    .card_1 h2 {
+      padding-top: 4px;
+      font-size: 21px;
+    }
+    .card_1 p {
+      padding-top: 9px;
+      font-size: 14px;
+    }
+    .service_cards .card_2 {
+      height: 338px;
+    }
+    .card_2 .imgsating {
+      padding: 25px 0 9px;
+    }
+    .card_2 h2 {
+      padding-top: 4px;
+      font-size: 21px;
+    }
+    .card_2 p {
+      padding-top: 9px;
+      font-size: 13px;
+    }
+    .service_cards .card_3 {
+      height: 338px;
+    }
+    .card_3 .imgsating {
+      padding: 25px 0 9px;
+    }
+    .card_3 h2 {
+      padding-top: 4px;
+      font-size: 21px;
+    }
+    .card_3 p {
+      padding-top: 9px;
+      font-size: 14px;
+    }
+    .lineone {
+      display: none !important;
+    }
+    .lineone_2 {
+      display: none !important;
+    }
+    .imgdetal {
+      margin-top: 700px;
+    }
+    .mobil_1 .imgset {
+      right: 75px;
+    }
+    .imgset img {
+      width: 169px;
+    }
+    .mobil_1 .textset h4 {
+      width: 239px;
+      margin: -8px -188px 0;
+    }
+    .mobil_1 .textset p {
+      margin: 19px 0px 0 -165px;
+      font-size: 19px;
+    }
+    .mobil_2 .imgset2 {
+      right: 171px;
+    }
+    .mobil_2 .imgset2 img{
+      width: 335px;
+      margin-left: 15px;
+    }
+    .mobil_2 .textset h4 {
+      margin: 0 -64px;
+      font-size: 23px;
+    }
+    .mobil_2 .textset p {
+      margin: 24px -70px 0;
+      font-size: 18px;
+    }
+    .imgset3 img {
+      width: 247px;
+    }
+    .infor {
+      margin: 70px 0;
+    }
+    .infor h1 {
+      padding: 120px 87px 55px;
+    }
+    .price .price1 {
+      left: -14px;
+    }
+    .price .price1 h1 {
+      font-size: 20px;
+    }
+    .price .price1 p {
+      padding: 32px 18px;
+      width: 224px;
+      height: 156px;
+      font-size: 18px;
+      margin-left: -83px;
+    }
+    .price .price2 h1 {
+      margin: 0 -56px;
+      font-size: 20px;
+    }
+    .price .price2 p {
+      padding: 32px 24px;
+      width: 247px;
+      height: 156px;
+      font-size: 18px;
+      margin-left: -57px;
+    }
+    .links h6 {
+      padding: 75px 0 34px;
+    }
+    .link {
+      padding-bottom: 30px;
+    }
+    .links .link .link_logo {
+      left: 237px;
+    }
+    .links .link .link_cantant {
+      right: 400px;
+    }
+    .links .link .link_cantant p {
+      width: 337px;
+    }
+    footer {
+      margin: 0 111px;
+    }
+  
+/*************************************************************************/
+
+@media screen and (max-width:480px){
+  .contant h1 {
+    font-size: 37px;
+    padding: 0 34px;
+  }
+  .contant p {
+    padding: 0;
+    font-size: 20px;
+  }
+  .imgt img {
+    width: 420px;
+    margin: 70px 0 0;
+  }
+  .services {
+    height: 1490px;
+  }
+  .services h3 {
+    padding-top: 135px;
+  } 
+  .services h1 {
+    margin: 15px 0 100px;
+    font-size: 2rem;
+  }
+  .services .service_cards{
+    margin: 0;
+  }
+  .service_cards .card_1{
+    height: 365px;
+    bottom: 40px;
+    right: 0;
+  }
+  .card_1 .imgsating {
+    padding: 15px 0;
+  }
+  .card_1 h2 {
+    padding-top: 6px;
+    font-size: 29px;
+  }
+  .card_1 p {
+    padding-top: 35px;
+    font-size: 22px;
+  }
+  .service_cards .card_2{
+    height: 365px;
+    bottom: 20px;
+    left: 0;
+  }
+  .card_2 .imgsating {
+    padding: 15px 0;
+  }
+  .card_2 h2 {
+    padding-top: 6px;
+    font-size: 29px;
+  }
+  .card_2 p {
+    padding-top: 35px;
+    font-size: 22px;
+  }
+  .service_cards .card_3{
+    height: 365px;
+    left: 0;
+  }
+  .card_3 .imgsating {
+    padding: 15px 0;
+  }
+  .card_3 h2 {
+    padding-top: 6px;
+    font-size: 29px;
+  }
+  .card_3 p {
+    padding-top: 35px;
+    font-size: 22px;
+  }
+  .imgdetal {
+    margin-top: 1382px;
+  }
+  .imgdetal h1 {
+    padding-top: 8px;
+    font-size: 2rem;
+  }
+  .imgdetal .mobil_1 {
+    margin-top: 57px;
+  }
+  .mobil_1 .imgset {
+    position: relative;
+    top: 265px;
+  }
+  .imgset img {
+    width: 190px;
+    margin-left: 95px;
+    border-radius: 32px;
+}
+  .mobil_1 .textset {
+    position: absolute;
+    left: 25px;
+  }
+  .mobil_1 .textset h4 {
+    margin: 0 0px;
+    font-size: 28px;
+  }
+  .mobil_1 .textset p {
+    margin: 25px 0px 0 14px;
+    font-size: 17px;
+  }
+  .lineone {
+    display: none !important;
+  }
+  .lineone_2 {
+    display: none !important;
+  }
+  .mobil_2 .imgset2{
+  margin: 0;
+  }
+  .mobil_2 .imgset2 img{
+    width: 340px;
+    margin-left: 239px;
+  }
+  .mobil_2 .textset{
+   left: 25px;
+  }
+  .mobil_2 .textset h4{
+    margin: 189px 0 0;
+    font-size: 30px;
+  }
+  .mobil_2 .textset p{
+    margin: 20px 0px 57px;
+    font-size: 18px;
+  }
+
+  .mobil_3 .imgset3{
+    position: relative;
+    top: 195px;
+    left: 0;
+  }
+  .imgset3 img{
+    width: 265px;
+    margin-left: 70px;
+  }
+  .mobil_3 .textset{
+    position: absolute;
+    top: 230rem;
+    left: 25px;
+  }
+  .mobil_3 .textset h4{
+    width: 20px;
+    margin-left: 29px;
+    font-size: 32px;
+  }
+  .mobil_3 .textset p{
+    margin: 35px 0 0 30px;
+    font-size: 17px
+  }
+
+  .infor {
+    margin: 185px 0 0;
+  }
+  .infor h1 {
+    padding: 41px 0px 45px;
+    font-size: 30px;
+    }
+  .infor button {
+    width: 210px;
+    margin-bottom: 60px;
+  }
+
+  .price h3 {
+    margin-top: 64px;
+  }
+  .price h2 {
+    padding: 27px 0 70px;
+    font-size: 25px;
+  }
+  .price .price1 {
+    left: 58px;
+    margin: 0 !important;
+  }
+  .price .price1 h1 {
+    margin: 0;
+    margin-left: -63px;
+    font-size: 28px;
+  }
+  .price .price1 p {
+    padding: 20px 45px 0;
+    width: 294px;
+    height: 145px;
+    margin-left: 0px;
+  }
+  .price .price2 {
+    margin: 0 !important;
+}
+  .price .price2 h1 {
+    margin-left: 70px;
+    font-size: 28px;
+  }
+  .price .price2 p {
+    padding: 20px 52px 0;
+    width: 305px;
+    height: 145px;
+    margin-left: 90px;
+  }
+
+  .links {
+    margin-top: 50px;
+  }
+  .links h6 {
+    padding: 85px 0 0;
+    font-size: 25px;
+  }
+  .links .link .link_logo {
+    padding-top: 25px;
+    left: 0;
+  }
+  .links .link .link_cantant {
+    right: 102px;
+    width: 0 !important;
+  }
+  .links .link .link_cantant p {
+    margin-left: 106px;
+  }
+
+  footer{
+      margin: 0 41px;
+  }
+  footer .c2{
+    padding-left: 195px;
+  }
+
+}
+
+
+/**********************************************************************/
+
+@media screen and (max-width:414px){
+  .contant h1 {
+    font-size: 35px;
+  }
+  .contant p {
+    padding: 0;
+    font-size: 18px;
+  }
+  .contant button {
+    width: 140px;
+    padding: 2px;
+  }
+  .services {
+    top: 584px;
+    height: 1490px;
+  }
+  .card_1 p {
+    padding-top: 43px;
+    font-size: 18px;
+  }
+  .card_2 p {
+    padding-top: 43px;
+    font-size: 18px;
+  }
+  .card_3 p {
+    padding-top: 43px;
+    font-size: 18px;
+  }
+  .imgt img {
+    width: 358px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 20px rgba(0,0,0,0.2);
+  }
+  .imgdetal h3 {
+    font-size: 21px;
+    padding-top: 132px;
+  }
+  .mobil_2 .imgset2 img {
+    width: 312px;
+    margin-left: 208px;
+  }
+  .mobil_3 .textset {
+    top: 227rem;
+  }
+  .imgset3 img {
+    width: 265px;
+    margin: 53px 16px;
+  }
+  .price .price1 p {
+    margin-left: -29px;
+  }
+  .price .price2 h1 {
+    margin-left: 67px;
+  }
+  .price .price2 p {
+    padding: 20px 68px 0;
+    margin-left: 68px;
+  }
+  .links .link .link_cantant {
+    right: 131px;
+  }
+  footer .c2 {
+    padding-left: 150px;
+  }
+}  
+
+/***********************************************************/
+
+@media screen and (max-width: 412px){ 
+  .contant p {
+    padding: 0;
+  }
+  .services {
+    top: 584px;
+    height: 1490px;
+  }
+  .card_1 p {
+    padding-top: 43px;
+    font-size: 18px;
+  }
+  .card_2 p {
+    padding-top: 43px;
+    font-size: 18px;
+  }
+  .card_3 p {
+    padding-top: 43px;
+    font-size: 18px;
+  }
+.mobil_2 .imgset2 img {
+    width: 311px;
+    margin-left: 206px;
+  }
+  .mobil_3 .textset {
+    top: 227rem;
+  }
+  .price .price1 p {
+    margin-left: -29px;
+  }
+  .price .price2 h1 {
+    margin-left: 67px;
+  }
+  .price .price2 p {
+    padding: 20px 68px 0;
+    margin-left: 68px;
+  }
+  .links .link .link_cantant {
+    right: 131px;
+  }
+}
+
+/**********************************************************************/
+
+@media screen and (max-width:375px){
+  .contant h1 {
+    padding: 0 9px;
+    font-size: 30px;
+  }
+  .contant p {
+    padding: 0;
+    font-size: 16px;
+  }
+  .contant button {
+    width: 148px;
+    padding: 0;
+  }
+  .imgt img {
+    width: 330px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 20px rgba(0,0,0,0.3);
+  }
+  .services {
+    top: 541px;
+    height: 1490px;
+  }
+  .services h3 {
+    padding-top: 135px;
+  } 
+  .services h1 {
+    margin: 15px 0 100px;
+    font-size: 2rem;
+  }
+  .services .service_cards{
+    margin: 0;
+  }
+  .service_cards .card_1{
+    height: 365px;
+    bottom: 40px;
+    right: 0;
+  }
+  .card_1 p {
+    padding-top: 29px;
+    font-size: 18px;
+  }
+  .card_1 .imgsating {
+    padding: 15px 0;
+  }
+  .service_cards .card_2{
+    height: 365px;
+    bottom: 20px;
+    left: 0;
+  }
+  .card_2 p {
+    padding-top: 29px;
+    font-size: 18px;
+  }
+  .card_2 .imgsating {
+    padding: 15px 0;
+  }
+  .service_cards .card_3{
+    height: 365px;
+    left: 0;
+  }
+  .card_3 .imgsating {
+    padding: 15px 0;
+  }
+  .card_3 p {
+    padding-top: 29px;
+    font-size: 18px;
+  }
+  .imgdetal {
+    margin-top: 1382px;
+  }
+  .imgdetal h1 {
+    padding-top: 8px;
+    font-size: 2rem;
+  }
+  .imgdetal .mobil_1 {
+    margin-top: 57px;
+  }
+  .mobil_1 .imgset {
+    position: relative;
+    top: 265px;
+  }
+  .imgset img {
+    width: 180px;
+    margin-left:  113px;
+    border-radius: 32px;
+}
+  .mobil_1 .textset {
+    position: absolute;
+  }
+  .mobil_1 .textset h4 {
+    margin: 0 0px;
+    font-size: 28px;
+  }
+  .mobil_1 .textset p {
+    margin: 25px 0px 0 14px;
+    font-size: 17px;
+  }
+  .lineone {
+    display: none !important;
+  }
+  .lineone_2 {
+    display: none !important;
+  }
+  .mobil_2 .imgset2{
+  margin: 0;
+  }
+  .mobil_2 .imgset2 img{
+    width: 298px;
+    margin-left: 186px;
+  }
+  .mobil_2 .textset h4{
+    margin: 189px 0 0;
+    font-size: 30px;
+  }
+  .mobil_2 .textset p{
+    margin: 20px 0px 57px;
+    font-size: 18px;
+  }
+
+  .mobil_3 .imgset3{
+    position: relative;
+    top: 195px;
+    left: 0;
+  }
+  .imgset3 img{
+    width: 255px;
+    margin: 0;
+  }
+  .mobil_3 .textset{
+    position: absolute;
+    top: 220rem;
+  }
+  .mobil_3 .textset h4{
+    width: 21px;
+    font-size: 32px;
+  }
+  .mobil_3 .textset p{
+    margin: 35px 0 0 30px;
+    font-size: 17px
+  }
+
+  .infor {
+    margin: 185px 0 0;
+  }
+  .infor h1 {
+    padding: 41px 0px 45px;
+    font-size: 30px;
+    }
+  .infor button {
+    width: 210px;
+    margin-bottom: 60px;
+  }
+
+  .price h3 {
+    margin-top: 64px;
+  }
+  .price h2 {
+    padding: 27px 0 70px;
+    font-size: 25px;
+  }
+  .price .price1 {
+    margin: 0 !important;
+  }
+  .price .price1 h1 {
+    margin-left: -67px;
+    font-size: 20px;
+  }
+  .price .price1 h1 b {
+    padding-left: 50px;
+  }
+  .price .price1 p {
+    padding: 20px 25px 0;
+    width: 224px;
+    height: 131px;
+    margin-left: -14px;
+    font-size: 19px;
+  }
+  .price .price2 {
+    margin: 0 !important;
+}
+  .price .price2 h1 {
+    margin-left: 86px;
+    font-size: 21px;
+    width: 100px;
+  }
+  .price .price2 h1 b {
+    padding-left: 50px;
+  }
+  .price .price2 p {
+    padding: 20px 22px 0;
+    width: 204px;
+    height: 130px;
+    font-size: 19px;
+    margin-left: 86px;
+  }
+
+  .links {
+    margin-top: 50px;
+  }
+  .links h6 {
+    padding: 85px 0 0;
+    font-size: 25px;
+  }
+  .links .link .link_logo {
+    padding-top: 25px;
+    left: 0;
+  }
+  .links .link .link_cantant {
+    top: 10px;
+    right: 140px;
+  }
+
+  footer{
+      margin: 0 41px;
+  }
+  footer .c2{
+    padding-left: 100px;
+  }
+
+}
+
+/*********************************************************************************/
+
+
+@media screen and (max-width: 360px){
+  .contant h1 {
+    padding: 0;
+    font-size: 32px;
+  }
+  .contant p {
+    font-size: 16px;
+  }
+  .imgt img {
+    width: 315px;
+  }
+  .services {
+    height: 1490px;
+    top: 538px;
+  }
+  .imgset img {
+    margin-left: 91px;
+    border-radius: 16px;
+  }
+  .mobil_2 .imgset2 img {
+    width: 260px;
+  }
+  .mobil_3 .textset {
+    top: 218rem;
+  }
+  .price .price1 {
+    left: 49px;
+  }
+  .links .link .link_cantant {
+    top: 11px;
+    right: 151px;
+  }
+}
+
+/*************************************************************************/
+
+@media screen and (max-width: 300px){
+  .contant h1 {
+    font-size: 23px;
+  }
+  .contant p {
+    padding: 0 16px;
+    font-size: 13px;
+  }
+  .contant button {
+    width: 103px;
+    padding: 0px;
+  }
+  .imgt img {
+    width: 245px !important;
+    border-radius: 5px;
+  }
+  .services {
+    top: 475px;
+    height: 1300px;
+  }
+  .services h3 {
+    padding-top: 101px;
+  }
+  .services h1 {
+    font-size: 25px;
+  }
+  .service_cards .card_1 {
+    height: 315px;
+  }
+  .card_1 h2 {
+    font-size: 20px;
+  }
+  .card_1 p {
+    padding-top: 10px;
+    font-size: 16px;
+  }
+  .service_cards .card_2 {
+    height: 315px;
+  }
+  .card_2 h2 {
+    font-size: 20px;
+  }
+  .card_2 p {
+    padding-top: 10px;
+    font-size: 16px;
+  }
+  .service_cards .card_3 {
+    height: 315px;
+  }
+  .card_3 h2 {
+    font-size: 20px;
+  }
+  .card_3 p {
+    padding-top: 10px;
+    font-size: 16px;
+  }
+  .imgdetal h3 {
+    padding-top: 0px;
+  }
+  .imgdetal h1 {
+    font-size: 25px;
+  }
+  .mobil_1 .textset h4 {
+    margin-left: -25px;
+    font-size: 21px;
+  }
+  .mobil_1 .textset p {
+      margin: 12px 0px 0 -5px;
+      font-size: 15px;
+  }
+  .imgset img {
+    width: 160px;
+    margin: -60px 79px 0;
+    border-radius: 0px;
+  }
+  .mobil_2 .textset {
+    left: 24px;
+  }
+  .mobil_2 .textset h4 {
+    margin-left: -15px;
+    font-size: 21px;
+  }
+  .mobil_2 .textset p {
+    margin: 13px 0px 50px -21px;
+    font-size: 15px;
+  }
+  .mobil_2 .imgset2 img {
+    width: 204px !important;
+  }
+  .mobil_3 .textset {
+      top: 192rem;
+  }
+  .mobil_3 .textset h4 {
+    margin-left: 8px;
+    font-size: 21px;
+  }
+  .mobil_3 .textset p {
+    margin: 13px 0px 0px 1px;
+    font-size: 15px;
+  }
+  .imgset3 img {
+    width: 210px;
+    margin-top: -45px;
+  }
+  .price h2 {
+    padding: 27px 0 50px;
+    font-size: 19px;
+  }
+  .price .price1 {
+    left: 47px;
+  }
+  .price .price1 p {
+    margin-left: -44px;
+  }
+  .price .price2 {
+    right: 71px;
+  }
+  .links .link .link_logo {
+    left: -18px;
+  }
+  .links .link .link_cantant {
+    top: 15px;
+    right: 199px;
+  }
+  footer {
+    margin: 0 17px;
+  }
+  footer .c2 {
+    padding-left: 74px;
+  }
+}
+/****************************************************************/
+
+@media screen and (max-width: 320px){
+  .contant h1 {
+    padding: 0 10px;
+    font-size: 25px;
+  }
+  .contant p {
+    padding: 0 18px;
+    font-size: 14px;
+  }
+  .contant button {
+    width: 125px;
+    padding: 0px;
+  }
+  .imgt img {
+    width: 270px !important;
+    border-radius: 5px;
+  }
+  .services {
+    top: 496px;
+    height: 1479px;
+  }
+  .services h3 {
+    padding-top: 130px;
+    text-align: center;
+  }
+  .services h1 {
+    text-align: center;
+    font-size: 28px;
+  }
+  .card_1 h2 {
+    font-size: 25px;
+  }
+  .card_1 p {
+    padding-top: 20px;
+    font-size: 18px;
+  }
+  .card_2 h2 {
+    font-size: 23px;
+  }
+  .card_2 p {
+    padding-top: 20px;
+    font-size: 18px;
+  }
+  .card_3 h2 {
+    font-size: 25px;
+  }
+  .card_3 p {
+    padding-top: 20px;
+    font-size: 18px;
+  }
+  .imgdetal h3 {
+    padding-top:90px;
+    text-align: center !important;
+  }
+  .imgdetal h1 {
+    font-size: 30px;
+    text-align: center !important;
+  }
+  .mobil_1 .textset h4 {
+    margin-left: -25px;
+    font-size: 24px;
+  }
+  .mobil_1 .textset p {
+      margin: 12px 0px 0 -5px;
+      font-size: 17px;
+  }
+  .imgset img {
+    width: 170px;
+    margin: 0px 82px 0;
+    border-radius: 0px;
+  }
+  .mobil_2 .textset {
+    left: 24px;
+  }
+  .mobil_2 .textset h4 {
+    margin-left: -15px;
+    font-size: 24px;
+  }
+  .mobil_2 .textset p {
+    margin: 13px 0px 50px -21px;
+    font-size: 17px;
+  }
+  .mobil_2 .imgset2 img {
+    width: 224px !important;
+  }
+  .mobil_3 .textset {
+      top: 211rem;
+  }
+  .mobil_3 .textset h4 {
+    margin-left: 8px;
+    font-size: 24px;
+  }
+  .mobil_3 .textset p {
+    margin: 13px 0px 0px 1px;
+    font-size: 17px;
+  }
+  .imgset3 img {
+    width: 230px;
+    margin-top: -5px;
+  }
+  .price h2 {
+    font-size: 21px;
+  }
+  .price .price1 {
+    left: 47px;
+  }
+  .price .price1 p {
+    margin-left: -44px;
+  }
+  .price .price2 {
+    right: 71px;
+  }
+  .links .link .link_cantant {
+    top: 13px;
+    right: 180px;
+  }
+  footer {
+    margin: 0 17px;
+  }
+  footer .c2 {
+    padding-left: 74px;
+  }
+}
+
+/**************************************************************************/
+
+
+
+
+ 
